@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\bin\Debug\net6.0\Mass_Change.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\bin\Debug\net6.0\Mass_Change.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\bin\Debug\net6.0\Mass_Change.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\bin\Debug\net6.0\Mass_Change.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\bin\Debug\net6.0\Mass_Change.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\refint\Mass_Change.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\Mass_Change.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Mass_Change\obj\Debug\net6.0\ref\Mass_Change.dll
