@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\bin\Debug\net6.0\Number_to_0_1.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\bin\Debug\net6.0\Number_to_0_1.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\bin\Debug\net6.0\Number_to_0_1.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\bin\Debug\net6.0\Number_to_0_1.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\bin\Debug\net6.0\Number_to_0_1.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\refint\Number_to_0_1.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\Number_to_0_1.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_6\Number_to_0_1\obj\Debug\net6.0\ref\Number_to_0_1.dll
